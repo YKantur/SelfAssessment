@@ -41,15 +41,15 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if:👂 heard
+  - while:👂 heard
   - do..while
   - for
   - for..in
   - for..of
   - for await
   - throw
-  - break
+  - break:👂 heard
   - continue
   - import
   - export
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js:👂 heard
   - npm
   - prettier
   - MDN
