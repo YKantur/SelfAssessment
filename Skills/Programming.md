@@ -1,38 +1,37 @@
 ## Programming fundamental concepts
-
 - Syntax and concepts
-  - value
+  - value: 👂 heard
   - identifier
-  - variable
+  - variable: 🎓 known
   - constant
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 👂 heard
   - procedure
-  - method
-  - class
+  - method: 👂 heard
+  - class: 👂 heard
   - prototype
-  - event
+  - event:
   - type
-  - primitive types
+  - primitive types: 👂 heard
   - reference types
   - flag
   - lexical scope
-  - code block
+  - code block: 👂 heard
   - conditions
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface: 👂 heard
   - contract
   - module
-  - call stack
+  - call stack:
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 👂 heard
+  - parameter: 👂 heard
   - pure function
   - lambda expression
   - side effects
@@ -53,43 +52,43 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🎓 known
+  - structure: 👂 heard
   - record
-  - enum
+  - enum: 👂 heard
   - instance
-  - object
-  - class
+  - object: 👂 heard
+  - class: 👂 heard
   - collection
   - set
-  - hash table
+  - hash table: 👂 heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue: 👂 heard
   - stack
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree: 👂 heard
+  - graph: 👂 heard
+  - iterator: 🎓 known
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
+  - debugger: 👂 heard
+  - garbage collection: 👂 heard
   - refactoring
-  - code review
-  - antipatterns
+  - code review: 👂 heard
+  - antipatterns: 👂 heard
   - paradigm
-  - algorithm
-  - magic numbers
+  - algorithm: 👂 heard
+  - magic numbers: 👂 heard
   - hardcode
   - complexity
   - decomposition
@@ -102,5 +101,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
