@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
+  - Object: 👂 heard
+  - this: 👂 heard
+  - arrow function: 👂 heard
+  - async function: 👂 heard
+  - call: 👂 heard
   - bind
   - apply
-  - instanceof
-  - ...spread
+  - instanceof: 👂 heard
+  - ...spread: 👂 heard
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -25,14 +25,14 @@
   - window
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
+  - prototype: 👂 heard
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
   - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - ternary operator: 👂 heard
+  - void: 👂 heard
+  - yield: 👂 heard
+  - await: 👂 heard
   - template literal
   - strict mode
   - delete
@@ -50,13 +50,13 @@
   - for await
   - throw
   - break:👂 heard
-  - continue
-  - import
+  - continue: 👂 heard
+  - import: 👂 heard
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 👂 heard
+  - switch: 👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
@@ -66,17 +66,17 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
-  - extend
+  - extend: 👂 heard
   - typed arrays
-  - Map
-  - Set
+  - Map: 👂 heard
+  - Set: 👂 heard
   - undefined
-  - null
+  - null: 👂 heard
   - Proxy
   - weak collections
-  - timers
+  - timers: 👂 heard
   - EventEmitter
   - RegExp
   - Date
