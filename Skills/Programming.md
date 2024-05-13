@@ -1,105 +1,105 @@
 ## Programming fundamental concepts
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier
-  - variable: 🎓 known
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function: 👂 heard
-  - procedure
-  - method: 👂 heard
-  - class: 👂 heard
-  - prototype
-  - event:
-  - type
-  - primitive types: 👂 heard
-  - reference types
-  - flag
-  - lexical scope
-  - code block: 👂 heard
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface: 👂 heard
-  - contract
-  - module
-  - call stack:
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🎓 known
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🎓 known
+  - prototype: 👂 heard
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope 👂 heard
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression 🖐️ used
+  - interface: 🖐️ used
+  - contract 👂 heard
+  - module: 🖐️ used
+  - call stack: 🎓 known
 - Functions
-  - signature
-  - argument: 👂 heard
-  - parameter: 👂 heard
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
+  - lambda expression: 🖐️ used
+  - side effects 🎓 known
+  - closure 👂 heard
+  - partial application 👂 heard
+  - curry 👂 heard
+  - higher order 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 👂 heard
+  - listener: 👂 heard
+  - compose: 👂 heard
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 🖐️ used
+  - functor: 🖐️ used
+  - monad 👂 heard
+  - monoid: 👂 heard
+  - generator: 👂 heard
+  - coroutine 👂 heard
 - Data structures
-  - array: 🎓 known
-  - structure: 👂 heard
-  - record
+  - array:🖐️ used
+  - structure: 🖐️ used
+  - record: 👂 heard
   - enum: 👂 heard
-  - instance
-  - object: 👂 heard
-  - class: 👂 heard
-  - collection
-  - set
-  - hash table: 👂 heard
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue: 👂 heard
-  - stack
-  - deque
-  - tree: 👂 heard
-  - graph: 👂 heard
-  - iterator: 🎓 known
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - instance: 🖐️ used
+  - object: 🖐️ used
+  - class: 🎓 known
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🎓 known
+  - linked list 🖐️ used
+  - doubly list 👂 heard
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue: 🖐️ used
+  - stack 🖐️ used
+  - deque 🎓 known
+  - tree: 🎓 known
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 👂 heard
+  - string parsing:👂 heard
 - Process & style
-  - compiler: 👂 heard
-  - transpiler
-  - linter
-  - polyfill
-  - debugger: 👂 heard
+  - compiler: 🖐️ used
+  - transpiler: 👂 heard
+  - linter: 🖐️ used
+  - polyfill: 👂 heard
+  - debugger: 🖐️ used
   - garbage collection: 👂 heard
-  - refactoring
-  - code review: 👂 heard
-  - antipatterns: 👂 heard
-  - paradigm
-  - algorithm: 👂 heard
-  - magic numbers: 👂 heard
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🎓 known
+  - spaghetti: 🖐️ used
+  - silver bullet: 🖐️ used
+  - not invented here 👂 heard
+  - dead code: 🖐️ used
+  - unreachable code: 🎓 known
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 👂 heard
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
