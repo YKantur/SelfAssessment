@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object 👂 heard
   - this
   - arrow function
   - async function
