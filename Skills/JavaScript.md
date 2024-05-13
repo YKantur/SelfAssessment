@@ -9,8 +9,8 @@
   - bind 👂 heard
   - apply 👂 heard
   - instanceof: 👂 heard
-  - ...spread: 👂 heard
-  - ...rest 👂 heard
+  - ...spread: 🖐️ used
+  - ...rest 🖐️ used
   - typeof 🖐️ used
   - destructuring 🖐️ used
   - generator: 🎓 known
